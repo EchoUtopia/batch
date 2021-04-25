@@ -1,11 +1,11 @@
 github.com/EchoUtopia/zerror/v2 v2.0.1 h1:54BathIiYjuQbvZfWE6p7jTCWdi89vgZmdJsPOEgPeI=
 github.com/EchoUtopia/zerror/v2 v2.0.1/go.mod h1:M1NXKZzGGoMsPsiWZi6QBqu0Li7pog3IFPqk1r5CS3I=
+github.com/EchoUtopia/zerror/v2 v2.0.2-0.20210423093441-71a031b51859 h1:B5M3cWMDxNW3+Mhsi7g/scS4ylrqMz7uOUh8p+vO1c0=
+github.com/EchoUtopia/zerror/v2 v2.0.2-0.20210423093441-71a031b51859/go.mod h1:M1NXKZzGGoMsPsiWZi6QBqu0Li7pog3IFPqk1r5CS3I=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
-github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=

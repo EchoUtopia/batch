@@ -2,11 +2,6 @@ package batch
 
 import (
 	"context"
-	"errors"
-)
-
-var (
-	Timeout = errors.New(`timeout, maybe you forget to flush`)
 )
 
 type HookFunc func(res interface{})
@@ -110,6 +105,7 @@ func (b *Batch) start() {
 }
 
 // pass key, nil if you dont want hooks
+// hook funcs will be executed in another goroutine
 func (b *Batch) Do(key Key, hooks ...HookFunc) {
 	b.reqs <- &batchRequest{
 		key:   key,

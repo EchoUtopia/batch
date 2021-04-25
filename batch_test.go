@@ -3,11 +3,11 @@ package batch
 import (
 	"context"
 	"fmt"
-	"github.com/pkg/errors"
 	"github.com/stretchr/testify/require"
 	"sort"
 	"testing"
 	"time"
+	"errors"
 )
 
 var bFn = func(ctx context.Context, keys Keys) (map[Key]interface{}, error) {
