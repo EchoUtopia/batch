@@ -1,6 +1,6 @@
 ## Batch
 
-this simple lib helps you with batch process your tasks, and you can also use it as dataloader
+this simple lib helps you with batch process your tasks, and you can also use it to fetch data in batch
 
 
 ## Example:
